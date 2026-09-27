@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jake Cone
+N:Cone;Jake;;;
+ORG:Orange Production Solutions
+TITLE:Founder & Overlay Manager
+TEL;TYPE=WORK,VOICE:+1-865-333-5636
+EMAIL;TYPE=WORK:jake@ops.us.com
+URL:https://www.orangeproductionsolutions.com
+END:VCARD
